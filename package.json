@@ -1,0 +1,21 @@
+{
+  "name": "black-metal-bathory",
+  "displayName": "Black Metal Bathory",
+  "description": "Referenced from metalelf0's vim's black metal themes: https://github.com/metalelf0/base16-black-metal-scheme. Created with: https://themes.vscode.one/",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Metal Bathory",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black Metal Bathory-color-theme.json"
+      }
+    ]
+  }
+}
