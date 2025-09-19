@@ -1,4 +1,5 @@
 {
+  "publisher": "keithwjh",
   "name": "black-metal-bathory",
   "displayName": "Black Metal Bathory",
   "description": "Referenced from metalelf0's vim's black metal themes: https://github.com/metalelf0/base16-black-metal-scheme. Created with: https://themes.vscode.one/",
@@ -17,5 +18,6 @@
         "path": "./themes/Black Metal Bathory-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "https://github.com/keithwongg/black-metal-bathory"
 }
